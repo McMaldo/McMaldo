@@ -5,11 +5,11 @@
 - I’m preparing to obtain my First Certificate of English.
 - And my real name is Maldonado Pablo Ignacio
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Dev Langs</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Dev Skills</h2>
 
-|Web Front-end|Web Back-end|Desk Back-end|
-|:---:|:---:|:---:|
-| <img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <br> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/Vite-Dark.svg" width="48"> <img src="./icons/Bootstrap.svg" width="48"> | <img src="./icons/PHP-Dark.svg" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" width="48"> <img src="./icons/Bash-Dark.svg" width="48"> <br> <img src="./icons/Python-Dark.svg" width="48">  <img src="./icons/Django.svg" width="48"> | <img src="./icons/CPP.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> |
+|Front-end|Back-end|DB|Tools|Others|
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Bootstrap.svg" width="48"> <br> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/Vite-Dark.svg" width="48"> <img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/NextJS-Dark.svg" width="48"> | <img src="./icons/PHP-Dark.svg" width="48"> <img src="./icons/Bash-Dark.svg" width="48"> <img src="./icons/Regex-Dark.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <br> <img src="./icons/Python-Dark.svg" width="48">  <img src="./icons/Django.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> | <img src="./icons/SQLite.svg" width="48"> <br> <img src="./icons/MySQL-Dark.svg" width="48"> | <img src="./icons/VSCode-Dark.svg" width="48"> <img src="./icons/Sublime-Dark.svg" width="48"> <img src="./icons/Figma-Dark.svg" width="48"> <br> <img src="./icons/Git.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/GitLab-Dark.svg" width="48"> | <img src="./icons/Arduino.svg" width="48"> <br> <img src="./icons/Notion-Dark.svg" width="48"> |
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> GitHub Stats</h2>
 <p align="center">
