@@ -1,9 +1,18 @@
 # Hi, I’m @McMaldo
 
-- I’m really interested in the Web Development.
-- I’m currently studing at a technical highschool.
-- I’m preparing to obtain my First Certificate of English.
-- And my real name is Maldonado Pablo Ignacio
+```js
+// Hardcode Data, keep for testing only
+let myData = {
+  name: { nick: "McMaldo", real: "Maldonado Pablo Ignacio" },
+  origin: { country: "Argentina", year: 2005 },
+  stat: { girlfriend: false, otaku: true },
+  details: [
+    "Really interested in the Web Development",
+    "Currently studing at a technical highschool",
+    "Preparing to obtain my First Certificate of English"
+  ]
+};
+```
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Dev Skills</h2>
 
@@ -36,3 +45,5 @@
   </div>
   <!--- trophy (end) -->
 </p>
+<!-- https://github.com/vibrantfix#gh-dark-mode-only -->
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
