@@ -1,4 +1,4 @@
-<h1 style="display: flex; gap: 8px; align-items: end; text-wrap: nowrap;">Hi, I’m <img src="./items/name.svg" /></h1>
+<img src="./items/name.svg" />
 
 <h2><img src="./items/tag.webp" width ="25"/> Dev Skills</h2>
 
