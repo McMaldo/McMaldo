@@ -56,24 +56,24 @@
 <h2><img src="./items/stats.webp" width="35"/> GitHub Stats</h2>
 <p align="center">
   <!--- stats (start) -->
-  <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem 0;">
-    <span style="min-width: calc(50% - 1rem); max-width: 500px; display: flex; flex-direction: column; justify-content: right;  gap: 1rem;">
-      <img height=50% src="https://github-readme-stats.vercel.app/api?username=McMaldo&theme=tokyonight&show_icons=true&count_private=true" />
-      <!-- "https://git.io/streak-stats" -->
-      <img height=50% src="https://streak-stats.demolab.com?user=McMaldo&theme=tokyonight" alt="GitHub Streak" />
-    </span>
-    <span  style="max-width: 500px; display: flex; justify-content: left;">
-      <td height=100% width=40% align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=McMaldo&theme=tokyonight&no-frame=true&langs_count=10"/>
+  <table>
+    <tr>
+      <td width=60%>
+        <img width=100% src="https://github-readme-stats.vercel.app/api?username=McMaldo&theme=tokyonight&show_icons=true&count_private=true" />
+        <!-- "https://git.io/streak-stats" -->
+        <img width=100% src="https://streak-stats.demolab.com?user=McMaldo&theme=tokyonight" alt="GitHub Streak" />
       </td>
-    </span>
-  </div>
+      <td>
+        <img width=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=McMaldo&theme=tokyonight&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
   <!--- stats (end) -->
   
   <!--- trophy (start) -->
-  <div align="center" style="width: 100%; display: flex; overflow-x: scroll;">
+  <div>
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <img style="min-width: 800px;" width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </div>
   <!--- trophy (end) -->
 </p>
