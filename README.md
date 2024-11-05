@@ -88,7 +88,7 @@ let aboutMe = {
   stat: { girlfriend: false, otaku: true },
   details: [
     "Really interested in the Web Development",
-    "Currently studing at a technical highschool",
+    "Currently studying at a technical highschool",
     "Preparing to obtain my First Certificate of English"
   ]
 };
