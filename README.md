@@ -1,4 +1,18 @@
-<img src="./items/name.svg" />
+<span>
+  <img src="./items/name.svg" />
+  <a href="https://github.com/McMaldo" color="transparent">
+    <img src="./icons/Github-Dark.svg" width="24" title="My Github" />
+  </a>
+  <a href="https://gitlab.com/maldonado.ignacio.pablo" color="transparent">
+    <img src="./icons/GitLab-Dark.svg" width="24" title="My Gitlab" />
+  </a>
+  <a href="mailto:ignacio.pablo.maldonado@gmail.com" color="transparent">
+    <img src="./icons/Gmail-Dark.svg" width="24" title="My Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-ignacio-maldonado" color="transparent">
+    <img src="./icons/LinkedIn.svg" width="24" title="My LinkedIn" />
+  </a>
+</span>
 
 <h2><img src="./items/tag.webp" width ="25"/> Dev Tools</h2>
 
