@@ -77,13 +77,12 @@
     </tr>
   </table>
   <!--- stats (end) -->
-  
-  <!--- trophy (start) -->
-  <div>
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </div>
-  <!--- trophy (end) -->
+
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+
+  <!-- https://github.com/Platane/snk -->
+  <img width=100% src="./items/github-snake.svg" alt="gh-snake" />
 </p>
 
 <h2><img src="./items/hacker.gif" width ="30"/> About Me</h2>
@@ -101,6 +100,6 @@ let aboutMe = {
   ]
 };
 ```
-
-<!-- https://github.com/vibrantfix#gh-dark-mode-only -->
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+<!-- https://github.com/vibrantfix#gh-dark-mode-only
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/> -->
