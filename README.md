@@ -1,9 +1,11 @@
 <span>
   <img src="./items/name.svg" />
-  <a href="https://github.com/McMaldo" color="transparent"><img src="./icons/Github-Dark.svg" width="24" title="My Github" /></a>
-  <a href="https://gitlab.com/maldonado.ignacio.pablo" color="transparent"><img src="./icons/GitLab-Dark.svg" width="24" title="My Gitlab" /></a>
-  <a href="mailto:ignacio.pablo.maldonado@gmail.com" color="transparent"><img src="./icons/Gmail-Dark.svg" width="24" title="My Gmail" /></a>
-  <a href="https://www.linkedin.com/in/pablo-ignacio-maldonado" color="transparent"><img src="./icons/LinkedIn.svg" width="24" title="My LinkedIn" /></a>
+  <a href="https://github.com/McMaldo"><img src="./icons/Github-Dark.svg" width="24" title="My Github" /></a>
+  <a href="https://gitlab.com/maldonado.ignacio.pablo"><img src="./icons/GitLab-Dark.svg" width="24" title="My Gitlab" /></a>
+  <a href="mailto:ignacio.pablo.maldonado@gmail.com"><img src="./icons/Gmail-Dark.svg" width="24" title="My Gmail" /></a>
+  <a href="https://www.linkedin.com/in/pablo-ignacio-maldonado"><img src="./icons/LinkedIn.svg" width="24" title="My LinkedIn" /></a>
+  <a href="https://dev.to/mcmaldo"><img src="./icons/DevTo-Dark.svg" width="24" title="My DevTo" /></a>
+  <a href="https://app.daily.dev/mcmaldo"><img src="./icons/DailyDev.svg" width="24" title="My DailyDev" /></a>
 </span>
 
 <h2><img src="./items/tag.webp" width ="25"/> Dev Tools</h2>
