@@ -8,8 +8,51 @@
   <a href="https://app.daily.dev/mcmaldo"><img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/DailyDev.svg" width="24" title="My DailyDev" /></a>
 </span>
 
-<h2><img src="./items/tag.webp" width ="25"/> Dev Tools</h2>
+<h2><img src="./items/stats.webp" width="35"/> GitHub Stats</h2>
+<p align="center">
+  <!--- stats (start) -->
+  <table>
+    <tr>
+      <td width=60%>
+        <img width=100% src="https://github-readme-stats.vercel.app/api?username=McMaldo&theme=tokyonight&show_icons=true&count_private=true" />
+        <!-- "https://git.io/streak-stats" -->
+        <img width=100% src="https://streak-stats.demolab.com?user=McMaldo&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img width=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=McMaldo&theme=tokyonight&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
 
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+
+  <!-- https://github.com/Platane/snk -->
+  <img width=100% src="./items/github-snake.svg" alt="gh-snake" />
+</p>
+
+<h2><img src="./items/hacker.gif" width ="30"/> About Me</h2>
+
+```js
+let aboutMe = {
+  name: { nick: "McMaldo", real: "Maldonado Pablo Ignacio" },
+  basedOn: { country: "Argentina", province: "Bs. As." },
+  birth: "2005/12/24",
+  details: [
+    "Focused on the Web Front-end Development",
+    "Considerable experience in Back-end and Database development",
+    "Favourite Techs: ReactJS & CSS"
+  ],
+  education: {
+    highschool: "Personal & Professional IT Technician",
+    college: "Studying Computer Science",
+    english: "Preparing to obtain my FCE"
+  }
+};
+```
+
+<h2><img src="./items/tag.webp" width ="25"/> Dev Tools</h2>
 <table>
   <tr>
     <td align="center" width="33%">
@@ -79,47 +122,3 @@
     </td>
   </tr>
 </table>
-
-<h2><img src="./items/stats.webp" width="35"/> GitHub Stats</h2>
-<p align="center">
-  <!--- stats (start) -->
-  <table>
-    <tr>
-      <td width=60%>
-        <img width=100% src="https://github-readme-stats.vercel.app/api?username=McMaldo&theme=tokyonight&show_icons=true&count_private=true" />
-        <!-- "https://git.io/streak-stats" -->
-        <img width=100% src="https://streak-stats.demolab.com?user=McMaldo&theme=tokyonight" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img width=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=McMaldo&theme=tokyonight&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-  <!--- stats (end) -->
-
-  <!-- https://github.com/ryo-ma/github-profile-trophy -->
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
-
-  <!-- https://github.com/Platane/snk -->
-  <img width=100% src="./items/github-snake.svg" alt="gh-snake" />
-</p>
-
-<h2><img src="./items/hacker.gif" width ="30"/> About Me</h2>
-
-```js
-let aboutMe = {
-  name: { nick: "McMaldo", real: "Maldonado Pablo Ignacio" },
-  basedOn: { country: "Argentina", province: "Bs. As." },
-  bornIn: "2005/12/24",
-  details: [
-    "Focused on the Web Front-end Development",
-    "Considerable experience in Back-end and Database development",
-    "Favourite Techs: ReactJS & CSS"
-  ],
-  education: {
-    highschool: "Personal & Professional IT Technician",
-    college: "Studying Computer Science",
-    english: "Preparing to obtain my FCE"
-  }
-};
-```
