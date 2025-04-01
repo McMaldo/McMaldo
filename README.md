@@ -12,8 +12,8 @@
 
 <table>
   <tr>
-    <td align="center">
-      <h5>Front-end</h5>
+    <td align="center" width="33%">
+      <div>Front-end</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/React-Dark.svg" width="36" title="React JS">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Vite-Dark.svg" width="36" title="Vite">
@@ -25,8 +25,8 @@
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/AntDesign-Dark.svg" width="36" title="Ant Design">
       </span>
     </td>
-    <td align="center">
-      <h5>Back-end</h5>
+    <td align="center" width="33%">
+      <div>Back-end</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/ExpressJS-Dark.svg" width="36" title="Express JS">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/NodeJS-Dark.svg" width="36" title="Node JS">
@@ -34,13 +34,12 @@
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Bash-Dark.svg" width="36" title="Bash">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Regex-Dark.svg" width="36" title="Regex">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Python-Dark.svg" width="36" title="Python">
-        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Django.svg" width="36" title="Django">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Java-Dark.svg" width="36" title="Java">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/CPP.svg" width="36" title="cpp">
       </span>
     </td>
-    <td align="center">
-      <h5>Data Base</h5>
+    <td align="center" width="33%">
+      <div>Data Base</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/MySQL-Dark.svg" width="36" title="MySQL">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/SQLite.svg" width="36" title="SQLite">
@@ -49,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h5>Code Editor</h5>
+      <div>Code Editor</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Windsurf.svg" width="36" title="Windsurf Editor">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/TraeIA-Dark.svg" width="36" title="TraeIA Editor">
@@ -59,7 +58,7 @@
       </span>
     </td>
     <td align="center">
-      <h5>Organization</h5>
+      <div>Organization</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Notion-Dark.svg" width="36" title="Notion">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Obsidian-Dark.svg" width="36" title="Obsidian">
@@ -68,7 +67,7 @@
       </span>
     </td>
     <td align="center">
-      <h5>Others</h5>
+      <div>Others</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Figma-Dark.svg" width="36" title="Figma">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Git.svg" width="36" title="Git">
@@ -108,15 +107,19 @@
 <h2><img src="./items/hacker.gif" width ="30"/> About Me</h2>
 
 ```js
-// Hardcode Data, keep for testing only
 let aboutMe = {
   name: { nick: "McMaldo", real: "Maldonado Pablo Ignacio" },
-  origin: { country: "Argentina", year: 2005 },
-  stat: { girlfriend: false, otaku: true },
+  basedOn: { country: "Argentina", province: "Bs. As." },
+  bornIn: "2005/12/24",
   details: [
-    "Really interested in the Web Development",
-    "Currently studying at a technical highschool",
-    "Preparing to obtain my First Certificate of English"
-  ]
+    "Focused on the Web Front-end Development",
+    "Considerable experience in Back-end and Database development",
+    "Favourite Techs: ReactJS & CSS"
+  ],
+  education: {
+    highschool: "Personal & Professional IT Technician",
+    college: "Studying Computer Science",
+    english: "Preparing to obtain my FCE"
+  }
 };
 ```
