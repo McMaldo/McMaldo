@@ -59,6 +59,8 @@ let aboutMe = {
       <div>Front-end</div>
       <span>
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/React-Dark.svg" width="36" title="React JS">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/TypeScript.svg" width="36" title="Type Script">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/TailwindCSS-Dark.svg" width="36" title="Tailwind">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Vite-Dark.svg" width="36" title="Vite">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/JavaScript.svg" width="36" title="Java Script (ES6)">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/CSS.svg" width="36" title="css 3">
@@ -116,6 +118,7 @@ let aboutMe = {
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Git.svg" width="36" title="Git">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Github-Dark.svg" width="36" title="Github">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/GitLab-Dark.svg" width="36" title="Gitlab">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Vercel-Dark.svg" width="36" title="Vercel">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Xampp.svg" width="36" title="Xampp">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Arduino.svg" width="36" title="Arduino">
       </span>
