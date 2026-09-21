@@ -14,35 +14,35 @@
   <table>
     <tr>
       <td width=60%>
-        <img width=100% src="https://github-readme-stats.vercel.app/api?username=McMaldo&theme=tokyonight&show_icons=true&count_private=true" />
+        <img width=100% src="https://github-stats-extended.vercel.app/api?username=McMaldo&custom_title=%20General%20Stats&show_icons=true&include_all_commits=true&theme=transparent" />
         <!-- "https://git.io/streak-stats" -->
-        <img width=100% src="https://streak-stats.demolab.com?user=McMaldo&theme=tokyonight" alt="GitHub Streak" />
+        <img width=100% src="https://streak-stats.demolab.com?user=McMaldo&theme=transparent" alt="GitHub Streak" />
       </td>
       <td>
-        <img width=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=McMaldo&theme=tokyonight&no-frame=true&langs_count=10"/>
+        <img width=100% src="https://github-stats-extended.vercel.app/api/top-langs?username=McMaldo&layout=donut-vertical&hide_title=true&langs_count=10&theme=transparent"/>
       </td>
     </tr>
   </table>
   <!--- stats (end) -->
 
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" />
+  <!-- <img width=100% src="https://github-profile-trophy.vercel.app/?username=McMaldo&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy" /> -->
 
   <!-- https://github.com/Platane/snk -->
-  <img width=100% src="./items/github-snake.svg" alt="gh-snake" />
+  <!-- <img width=100% src="./items/github-snake.svg" alt="gh-snake" /> -->
 </p>
 
 <h2><img src="./items/hacker.gif" width ="30"/> About Me</h2>
 
 ```js
-let aboutMe = {
+let me = {
   name: { nick: "McMaldo", real: "Maldonado Pablo Ignacio" },
   basedOn: { country: "Argentina", province: "Bs. As." },
   birth: "2005/12/24",
   details: [
     "Focused on the Web Front-end Development",
     "Considerable experience in Back-end and Database development",
-    "Favourite Techs: ReactJS & CSS"
+    "Favourite Techs: React.TS & Tailwind"
   ],
   education: {
     highschool: "Personal & Professional IT Technician",
@@ -68,6 +68,7 @@ let aboutMe = {
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Bootstrap.svg" width="36" title="Bootstrap">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/MaterialUI-Dark.svg" width="36" title="Material UI">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/AntDesign-Dark.svg" width="36" title="Ant Design">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Svelte.svg" width="36" title="Sveltekit">
       </span>
     </td>
     <td align="center" width="33%">
@@ -80,7 +81,8 @@ let aboutMe = {
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Regex-Dark.svg" width="36" title="Regex">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Python-Dark.svg" width="36" title="Python">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Java-Dark.svg" width="36" title="Java">
-        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/CPP.svg" width="36" title="cpp">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/CPP.svg" width="36" title="C++">
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Haskell-Dark.svg" width="36" title="Haskell">
       </span>
     </td>
     <td align="center" width="33%">
@@ -95,6 +97,7 @@ let aboutMe = {
     <td align="center">
       <div>Code Editor</div>
       <span>
+        <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Zeditor-Dark.svg" width="36" title="Zeditor">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/Windsurf.svg" width="36" title="Windsurf Editor">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/TraeIA-Dark.svg" width="36" title="TraeIA Editor">
         <img src="https://raw.githubusercontent.com/McMaldo/skill-icons/main/icons/VSCode-Dark.svg" width="36" title="Visual Studio Code">
